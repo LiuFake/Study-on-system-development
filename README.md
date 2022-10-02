@@ -26,3 +26,4 @@ I am not particularly proficient in all the contents. I only operate according t
 
 ### (5) Plan for the next week:
 
+Review the content I have learned this week, and study "常用工具" to learn about the server. If the learning progress is OK, I will start learning computer network as planned
