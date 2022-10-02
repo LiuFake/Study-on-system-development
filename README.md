@@ -1,9 +1,9 @@
 # -# LiuCanMin's weekly reports
 ## Week 1
 ### (1) Learning hours:
-about 15 hours in this week,about 2 hours per day.
+about 18 hours in this week,about 2 hours per day and one day spent half a day.
 ### (2) Learning progress:
-I have learned the use of pointers, arrays, structures, file operations, input and output in c++.
+I have learned the use of pointers, arrays, structures, file operations, input and output in C++.I also learned some knowledge about Linux this week
 ### (3) Implementation of the tasks I have done this week:
 
 ### (4) Unsolved problems：
