@@ -1,4 +1,4 @@
-# -# LiuCanMin's weekly reports
+# LiuCanMin's weekly reports
 ## Week 1
 ### (1) Learning hours:
 about 18 hours in this week,about 2 hours per day and one day spent half a day.
