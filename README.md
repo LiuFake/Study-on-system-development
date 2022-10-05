@@ -34,7 +34,7 @@ Review the content I have learned this week, and study "常用工具" to learn a
 
 ### (2) Learning progress:
 
-I learned the remote operation of git and tried to do it myself, but the effect was not very good (something went wrong)》
+I learned the remote operation of git and tried to do it myself, but the effect was not very good . Then everything is OK with my hardwork . I have implemented a series of git operations in the configured Linux virtual machine, and have a certain understanding of git . 
 
 ### (3) Implementation of the tasks I have done this week:
 
