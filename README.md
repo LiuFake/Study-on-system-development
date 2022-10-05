@@ -34,6 +34,8 @@ Review the content I have learned this week, and study "常用工具" to learn a
 
 ### (2) Learning progress:
 
+I learned the remote operation of git and tried to do it myself, but the effect was not very good (something went wrong)》
+
 ### (3) Implementation of the tasks I have done this week:
 
 ### (4) Unsolved problems：
