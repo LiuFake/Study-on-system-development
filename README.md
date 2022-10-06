@@ -40,4 +40,6 @@ I have implemented a series of git operations in the configured Linux virtual ma
 
 ### (4) Unsolved problems：
 
+I have no idea when I see the such thick ref  "计算机网络：自顶而下方法", I do not know how to start it and finish the final task , but I'm try to do it.
+
 ### (5) Plan for the next week:
