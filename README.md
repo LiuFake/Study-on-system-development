@@ -4,9 +4,8 @@
 
 about 18 hours in this week,about 2 hours per day and one day spent half a day.
 
-### (2) Learning progress:
-
-I have learned the use of pointers, arrays, structures, file operations, input and output in C.  
+### (2) Learning progress  
+I have learned the use of pointers, arrays, structures, file operations, input and output in C.
 
 I also learned some knowledge about Linux this week.  
 
@@ -26,20 +25,24 @@ I am not particularly proficient in all the contents. I only operate according t
 
 ### (5) Plan for the next week:
 
-Review the content I have learned this week, and study "常用工具" to learn about the server. If the learning progress is OK, I will start learning computer network as planned.And I want to learn some knowledge about c++.
+Review the content I have learned this week, and study some tools in  `常用工具` to learn about the server. If the learning progress is OK, I will start learning computer network as planned.And I want to learn some knowledge about c++.
 
 ## Week 2
 
-### (1) Learning hours:
+### (1) Learning hours:  
+
+about 10 hours
 
 ### (2) Learning progress:
 
-I have implemented a series of git operations in the configured Linux virtual machine, and have a certain understanding of git . I successfully connected to my virtual machine using MobaXterm .
+I have implemented a series of git operations in the configured Linux virtual machine, and have a certain understanding of git . I successfully connected to my virtual machine using MobaXterm .  And I also learned some about `计算机网络:自顶而下方法` . 
 
 ### (3) Implementation of the tasks I have done this week:
 
+I tried using some git instructions . But something wrong happened when I used the `git remove` . I have used `git clone` before, but there is no remote host, even if  I used the `git remove add` remote host is useless . I read some information about computer network, and I feel that it contains a lot of content , and it is unrealistic to read all of it in a week . So I tried to read some code about the establishment of echo server, and then slowly learn and understand it
+
 ### (4) Unsolved problems：
 
-I have no idea when I see the such thick ref  "计算机网络：自顶而下方法", I do not know how to start it and finish the final task , but I'm try to do it. I'm going to do the program first, and then learn the knowledge in the process of doing the program .
+I have no idea when I see the such thick ref  `计算机网络：自顶而下方法`, I do not know how to start it and finish the final task , but I'm try to do it. I'm going to do the program first, and then learn the knowledge in the process of doing the program .
 
 ### (5) Plan for the next week:
