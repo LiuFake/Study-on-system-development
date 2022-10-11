@@ -65,7 +65,9 @@ I plan to continue to learn the relevant knowledge of computer network, and then
 
 ### (2) Learning progress:
 
-### (3) Implementation of the tasks I have done this week:
+### (3) Implementation of the tasks I have done this week:  
+
+About review : I went through the whole process from editing C language source files to running executable programs again on the Linux virtual machine . 
 
 ### (4) Unsolved problems：
 
