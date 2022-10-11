@@ -67,7 +67,7 @@ I plan to continue to learn the relevant knowledge of computer network, and then
 
 ### (3) Implementation of the tasks I have done this week:  
 
-About review : I went through the whole process from editing C language source files to running executable programs again on the Linux virtual machine . 
+About review : I went through the whole process from editing C language source files to running executable programs again on the Linux virtual machine . I reviewed the content of last week again, compiled and debugged the C language program using gdb in the Linux environment, and completed the single step debugging, monitoring variables and other operations . 
 
 ### (4) Unsolved problems：
 
