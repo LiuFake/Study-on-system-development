@@ -73,6 +73,10 @@ I learned some knowledge about computer network . I also read the popular scienc
 
 About review : I went through the whole process from editing C language source files to running executable programs again on the Linux virtual machine . I reviewed the content of last week again, compiled and debugged the C language program using gdb in the Linux environment, and completed the single step debugging, monitoring variables and other operations . 
 
+About Computer network : I learned some simple knowledge about the OSI , TCP/IP , five tier architecture
+
 ### (4) Unsolved problems：
+
+Although I have a certain understanding of computer network, I still feel that I don't understand anything . 
 
 ### (5) Plan for the next week:  
