@@ -73,7 +73,9 @@ I learned some knowledge about computer network . I also read the popular scienc
 
 About review : I went through the whole process from editing C language source files to running executable programs again on the Linux virtual machine . I reviewed the content of last week again, compiled and debugged the C language program using gdb in the Linux environment, and completed the single step debugging, monitoring variables and other operations . 
 
-About Computer network : I learned some simple knowledge about the OSI , TCP/IP , five tier architecture
+About Computer network : I learned some simple knowledge about the OSI , TCP/IP , five tier architecture . 
+
+About 5G : I read the blog "5G：4G到5G的演进，整体网络架构的主要区别" .
 
 ### (4) Unsolved problems：
 
