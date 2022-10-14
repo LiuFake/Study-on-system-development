@@ -61,9 +61,13 @@ I plan to continue to learn the relevant knowledge of computer network, and then
 
 ## Week 3
 
-### (1) Learning hours:  
+### (1) Learning hours:   
+
+about 10 hours .
 
 ### (2) Learning progress:
+
+I learned some knowledge about computer network . I also read the popular science knowledge of 5g communication . I also reviewed the previous learning contents .
 
 ### (3) Implementation of the tasks I have done this week:  
 
