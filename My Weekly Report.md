@@ -63,7 +63,7 @@ I plan to continue to learn the relevant knowledge of computer network, and then
 
 ### (1) Learning hours:   
 
-about 10 hours .
+about 8 hours .
 
 ### (2) Learning progress:
 
@@ -75,10 +75,8 @@ About review : I went through the whole process from editing C language source f
 
 About Computer network : I learned some simple knowledge about the OSI , TCP/IP , five tier architecture . 
 
-About 5G : I read the blog "5G：4G到5G的演进，整体网络架构的主要区别" .
+About 5G : I read the blog "5G：4G到5G的演进，整体网络架构的主要区别" 
 
 ### (4) Unsolved problems：
 
-Although I have a certain understanding of computer network, I still feel that I don't understand anything . 
-
-### (5) Plan for the next week:  
+Although I have a certain understanding of computer network, I still feel that I don't understand anything . Then I wrote some reading notes . 
